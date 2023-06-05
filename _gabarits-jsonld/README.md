@@ -57,7 +57,7 @@ Enter the title of the event.
 
 ### [_url_](https://schema.org/url)
 Enter the canonic URL of the event web page on the organizer's website. 
-For series of performances, if each peformance has its own web page, enter each performance's unique URL. Otherwise, enter the URL of the event series' web page. Sinon saisissez, l'URL de la page web de la série de représentation.
+For series of performances, if each peformance has its own web page, enter each performance's unique URL. Otherwise, enter the URL of the event series' web page.
 
 ### [_eventStatus_](https://schema.org/eventStatus)
 Indicate whether an event is [scheduled](https://schema.org/EventScheduled) (with date), [postponed](https://schema.org/EventPostponed) (date to be confirmed), [rescheduled](https://schema.org/EventRescheduled) (with new date) or [cancelled](https://schema.org/EventCancelled).
