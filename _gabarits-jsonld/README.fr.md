@@ -106,7 +106,7 @@ Voici un exemple de code JSON-LD imbriquant une entité personne décrite avec l
          "https://isni.org/isni/0000000002492038",
          "http://www.wikidata.org/entity/Q596774",
          "https://music.apple.com/artist/440813872"]
-   }],
+      },
    <!-- ... -->
 }
 ```
